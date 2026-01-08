@@ -1,5 +1,6 @@
 ---
 [[mermaid]]
+---
 - 常用语法
 # 流程图(graph)
 ```mermaid
@@ -7,6 +8,7 @@ graph TD
     A[开始] --> B
     B --> C
 ```
+
 
 ## 方向控制
 graph TD:top to bottom
@@ -33,5 +35,5 @@ sequenceDiagram
                         %% ->> 实线
                         %% -->> 虚线箭头
             %%Note over 名字1,名字2:文本 %%这个命令会出现一个文本框,覆盖两个参数的时间线
-
+```
     

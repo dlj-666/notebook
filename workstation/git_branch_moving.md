@@ -1,4 +1,8 @@
+---
+[[git]]
+---
 # 创建新分支并指向某个版本
+===============================
 git checkout-b new_branch_name <commit-hash>
 
 # 切换到某个分支
