@@ -17,3 +17,5 @@ git log --oneline --graph --all
 
 # 在旧版本创建分支提交不会覆盖原来的路，二十开一条新路
 
+# git pull拉取远程所有分支并同步
+
